@@ -1,0 +1,5 @@
+oo <- c(101:115)
+pp <- ("f,z,x,c,v,b,g,h,j,k,l,l,q,w,e")
+cbind(oo,pp)
+cbind(pp,oo)
+rbind(oo,pp)
